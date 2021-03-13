@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oliver-007
+- 👋 Hi, I’m Faisal Ahmed
 - 👀 I’m interested in Full-stack Web Development with React
 - 🌱 I’m currently learning Full-stack Web Development with React
 - 📫 You can reach me on oliverahmed000@gmail.com
