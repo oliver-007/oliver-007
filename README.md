@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Faisal Ahmed
-- 👀 I’m interested in Full-stack Web Development with React
-- 🌱 I’m currently learning Full-stack Web Development with React
+- 👀 I’m interested in Full-stack Web Development with React.
+- 🌱 I’m currently learning MERN Stack Development.
 - 📫 You can reach me on oliverahmed000@gmail.com
 
 <!---
