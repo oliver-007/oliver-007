@@ -29,7 +29,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliver-007&show_icons=true&locale=en&layout=compact" alt="oliver-007" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliver-007&theme=maroongoldshow_icons=true&locale=en" alt="oliver-007" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliver-007&theme=maroongold&show_icons=true&locale=en" alt="oliver-007" /></p>
 
 
 
