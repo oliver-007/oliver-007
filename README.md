@@ -6,13 +6,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliver-007" alt="oliver-007" /></a> </p>
 
-- 🔭 I’m currently working on **Firebase project**
+- 🔭 I’m currently working on **Node Js project**
 
-- 🌱 I’m currently learning **Firebase, Framer-Motion**
+- 🌱 I’m currently learning **Node Js,Firebase, Framer-Motion**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
-- 💬 Ask me about **JavaScript, React, Tailwind**
+- 💬 Ask me about **JavaScript, React Js, Node Js, Tailwind**
 
 - 📫 How to reach me **Olivercommercial000@gmail.com**
 
