@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A Junior frontend developer from Bangladesh.</h3>
+<h3 align="center">A Full Stack web developer (MERN) from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-007&label=Profile%20views&color=0e75b6&style=flat" alt="oliver-007" /> </p>
 
