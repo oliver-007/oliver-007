@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **MERN project**
 
-- 🌱 I’m currently learning **Framer-Motion**
+- 🌱 I’m currently learning **Next.js**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
