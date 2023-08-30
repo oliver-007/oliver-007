@@ -1,20 +1,20 @@
 
 <h1 align="center">Hi 👋, I'm Oliver</h1>
-<h3 align="center">A Full Stack web developer (MERN) from Bangladesh.</h3>
+<h3 align="center">A Full Stack web developer ( MERN , T3 ) from Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oliver-007&label=Profile%20views&color=0e75b6&style=flat" alt="oliver-007" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliver-007" alt="oliver-007" /></a> </p>
 
-- 🔭 I’m currently working on **MERN project**
+- 🔭 I’m currently working on **NEXT.js project**
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Prisma**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
-- 💬 Ask me about **JavaScript, React Js, Node Js, Express Js, MongoDB, Mongoose, JWT Authentication, Tailwind**
+- 💬 Ask me about **JavaScript, React Js, NEXT.js, Node Js, Express Js, Prisma, MongoDB, Mongoose, JWT Authentication, Tailwind**
 
-- 📫 How to reach me **Olivercommercial000@gmail.com**
+- 📫 How to reach me **Oliverahmed000@gmail.com**
 
 - ⚡ Fun fact : **I love to watch movies 😍**
 
