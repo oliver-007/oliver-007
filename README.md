@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
-- 💬 Ask me about **JavaScript, ES6, React Js, NEXT.js, Redux Toolkit, Node Js, Express Js, Prisma, MongoDB, Mongoose, JWT Authentication, Tailwind, Figma**
+- 💬 Ask me about **JavaScript ES6, React Js, NEXT.js, Redux Toolkit, Node Js, Express Js, Prisma, MongoDB, Mongoose, JWT Authentication, Tailwind, Figma**
 
 - 📫 How to reach me **Oliverahmed000@gmail.com**
 
