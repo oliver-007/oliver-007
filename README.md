@@ -6,13 +6,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliver-007" alt="oliver-007" /></a> </p>
 
+- 🦾 I'm expert in **Node.js, MongoDB, React.js, Next.js**
+
+- 😍  My favourite is **Backend**
+  
 - 🔭 I’m currently working on **Youtube frontend React Project**
 
 - 🌱 I’m currently learning **MongoDB Pipeline Aggregation**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
-- 💬 Ask me about **JavaScript, React Js, NEXT.js, Node Js, Express Js, Prisma, MongoDB, Mongoose, JWT Authentication, Tailwind**
+- 💬 Ask me about **JavaScript, React Js, NEXT.js, Node Js, Express Js, Prisma, MongoDB, Mongoose, JWT Authentication, Tailwind, Figma**
 
 - 📫 How to reach me **Oliverahmed000@gmail.com**
 
