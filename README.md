@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliver-007" alt="oliver-007" /></a> </p>
 
-- 🔭 I’m currently working on **NEXT.js project**
+- 🔭 I’m currently working on **Youtube frontend**
 
-- 🌱 I’m currently learning **Prisma**
+- 🌱 I’m currently learning **MongoDB Pipeline Aggregation**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
