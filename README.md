@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oliver-007" alt="oliver-007" /></a> </p>
 
-- 🦾 I'm expert in **Node.js, MongoDB, React.js, Next.js**
+- 🦾 I'm expert in **Node.js, MongoDB, React.js, Next.js, Tailwind css**
 
 - 😍  My favourite is **Backend**
   
