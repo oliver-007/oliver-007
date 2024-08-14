@@ -42,7 +42,7 @@
   <a href="https://www.nodejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/> 
     <a href="https://mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> </a> </a>  
    </p>
-O
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliver-007&show_icons=true&locale=en&layout=compact" alt="oliver-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliver-007&theme=react&show_icons=true&locale=en" alt="oliver-007" /></p>
