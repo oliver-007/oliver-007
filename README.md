@@ -46,19 +46,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oliver-007&show_icons=true&locale=en&layout=compact" alt="oliver-007" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oliver-007&theme=react&show_icons=true&locale=en" alt="oliver-007" /></p>
-
-
-
-
-
-
-
-
-https://e7.pngegg.com/pngimages/616/528/png-clipart-angularjs-typescript-javascript-vue-js-others-blue-angle.png
-
-
-
-
-
-
-
