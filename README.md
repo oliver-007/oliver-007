@@ -10,9 +10,9 @@
 
 - 😍  My favourite is **Backend**
   
-- 🔭 I’m currently working on **Youtube frontend React Project**
+- 🔭 I’m currently working on **React Native project**
 
-- 🌱 I’m currently learning **MongoDB Pipeline Aggregation**
+- 🌱 I’m currently learning **React-Native**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **Oliverahmed000@gmail.com**
 
-- ⚡ Fun fact : **I love to watch movies 😍**
+- ⚡ Fun fact : **I love to watch movies & play e-games 😍**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
