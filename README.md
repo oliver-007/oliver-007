@@ -10,9 +10,9 @@
 
 - 😍  My favourite is **Backend**
   
-- 🔭 I’m currently working on **React Native project**
+- 🔭 I’m currently working on **SaaS project**
 
-- 🌱 I’m currently learning **React-Native**
+- 🌱 I’m currently learning **Php**
 
 - 👨‍💻 All of my projects are available at [https://oliverahmed.netlify.app](https://oliverahmed.netlify.app)
 
